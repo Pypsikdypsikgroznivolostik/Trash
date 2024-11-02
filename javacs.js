@@ -23,7 +23,7 @@ function app() {
 		skyColor = 0x69c6d0,
 		pointLightZ = -60,
 		cameraY = 85,
-		cameraYMin = 27,
+		cameraYMin = 17,
 		renderDistance = 8,
 		roadChunks = [];
 
