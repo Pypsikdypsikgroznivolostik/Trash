@@ -41,7 +41,7 @@ function app() {
 			this.vehicles = [
 				new Vehicle({
 					color: 0xff1717,
-					x: 10,
+					x: 5,
 					z: 0,
 					modelID: 0,
 					speed: 1,
