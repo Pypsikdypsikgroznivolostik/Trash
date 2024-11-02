@@ -22,7 +22,7 @@ function app() {
 		randomInt = (min,max) => Math.round(Math.random() * (max - min)) + min,
 		skyColor = 0x69c6d0,
 		pointLightZ = -60,
-		cameraY = 45,
+		cameraY = 85,
 		cameraYMin = 7,
 		renderDistance = 8,
 		roadChunks = [];
