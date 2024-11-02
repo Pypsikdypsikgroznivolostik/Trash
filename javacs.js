@@ -24,7 +24,7 @@ function app() {
 		pointLightZ = -60,
 		cameraY = 45,
 		cameraYMin = 12,
-		renderDistance = 8,
+		renderDistance = 18,
 		roadChunks = [];
 
 	class Game {
